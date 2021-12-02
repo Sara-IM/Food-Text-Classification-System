@@ -1,7 +1,7 @@
 # Workshop-02-CS392-03-372-
-This is for SWE course .
-team members :
+<br>This is for SWE course .
+<br>team members :
 <br>Asia Alrajeh 
-Hanin Alanazi
-Sara Almashharawi
-section : 372
+<br>Hanin Alanazi
+<br>Sara Almashharawi
+<br>section : 372
