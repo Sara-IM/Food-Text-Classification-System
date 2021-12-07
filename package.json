@@ -1,0 +1,26 @@
+{
+  "name": "workshop",
+  "version": "1.0.0",
+  "description": "rest API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sara",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "jest": "^27.4.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sara-IM/Workshop-02-CS392-03-372-.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Sara-IM/Workshop-02-CS392-03-372-/issues"
+  },
+  "homepage": "https://github.com/Sara-IM/Workshop-02-CS392-03-372-#readme"
+}
