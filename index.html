@@ -1,16 +1,32 @@
- <!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
 <meta charset="UTF-8">
 <title>Your front-end</title>
-</head>
 
-<body>
-<form action="/fasttext">
-	Enter your text to be classified<br>
-	<input type="text" name="statement">
-	<input type="submit" value="Submit">
+  
+</head>
+<h1 style="color: maroon; ;text-align: center;" >  food text classification system 
+    <img src="https://i.pinimg.com/originals/55/f8/af/55f8afd0d4c2224653f1ba467b6543e8.jpg"  style="float :inline-end ; width:250px;;height:250px;"> 
+</h1>
+  
+
+<body style="text-align: center;"> 
+<form  action="/fasttext"  >
+	Enter your text to be classified<br><br>
+	<input  id="user_input" type="text" name="statement" placeholder=" Enter Food name "><br><br>
+    
+	<input type="submit" value="Submit" onclick="showInput()">
+    <button type="reset">Clear</button>
+   
+
 </form> 
+
+
+
+
+ <label >Your input: </label>
+ <p><span id='display'></span></p>
 
 </body>
 
